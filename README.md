@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Code-Lyko
 - 👀 I’m interested in Web3, Blockchain and SmartContract.
-- 🌱 I’m currently learning HTML and CSS to have bases because I start.
+- I have already learned html and css
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
